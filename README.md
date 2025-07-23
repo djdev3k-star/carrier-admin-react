@@ -1,5 +1,3 @@
-
-```markdown
 # 🚚 Carrier Admin Dashboard
 
 A modern React Admin dashboard for transportation carriers. This project includes:
