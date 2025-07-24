@@ -1,6 +1,7 @@
 // src/resources/drivers.tsx
 import React from "react";
 import { List, Datagrid, TextField, EditButton, Edit, SimpleForm, TextInput, Create } from "react-admin";
+import { DateInput, SelectInput } from 'react-admin';
 
 export const DriverList = (props) => (
     <List {...props}>
